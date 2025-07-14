@@ -43,6 +43,8 @@ emotion_detection/
 │   ├── 01_preprocessing.ipynb
 │   └── 02_train_model.ipynb
 ├── dataset/                  # FER-2013 dataset folders (train/test)
+├── screenshots/              # Demo images/GIFs
+│   └── demo.png
 └── README.md
 ```
 
@@ -99,7 +101,7 @@ python app.py
 
 ## 📸 Screenshots
 
-![Demo Screenshot](D:\emotion_detection\screenshots\demo.png)
+![Demo Screenshot](screenshots/demo.png)
 
 
 ---
