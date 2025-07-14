@@ -1,0 +1,17 @@
+# Ignore Python cache and virtual environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+cnn_gpu_env/
+
+# Ignore model weights
+*.h5
+*.hdf5
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
